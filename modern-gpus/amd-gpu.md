@@ -147,7 +147,7 @@ Supported cards:
 
 * RX 590
 * RX 580X
-* RX 580
+* RX 580 (2048SP doesn't work, they are not recognized by macos. Changing the VBIOS to a RX 570 solve the issue but only a few of cards can be fixed.)
 * RX 570X
 * RX 570
 * RX 560X
